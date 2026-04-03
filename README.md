@@ -104,7 +104,7 @@ This system can assist:
 
 ```bash
 # Clone repository
-git clone <>
+git clone <https://github.com/gireesh66/Brain_MRI__Segmentation.git>
 
 # Install dependencies
 pip install -r requirements.txt
